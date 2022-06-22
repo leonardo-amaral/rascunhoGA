@@ -1,0 +1,171 @@
+.cotacao-image {
+  width: 100vw;
+  display: flex;
+}
+
+.cotacao-image1 {
+  width: 50vw;
+  height: 50vh;
+  background-image: url('../Assets/images/particular.jpg');
+  background-size: cover;
+}
+
+.cotacao-image2 {
+  width: 50vw;
+  height: 50vh;
+  background-image: url('../Assets/images/empresas2.jpg');
+  background-size: cover;
+}
+
+.text-cotacao-image {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 5%;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.text-cotacao-image:hover {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.text-cotacao-title {
+  color: white;
+  font-weight: 300;
+  border-bottom: 5px solid #97CDF0;
+  width: 20%;
+  transition: 0.5s;
+}
+
+.boxes-cotacao {
+  padding: 6% 10%;
+  width: 100vw;
+  height: 50vh;
+  display: flex;
+  gap: 2vw;
+  background-color: #dedede;
+}
+
+.box-cotacao {
+  padding: 1%;
+  width: 10vw;
+  height: 10vh;
+  background-color: #16203A;
+  display: flex;
+  align-items: center;
+  gap: 1vh;
+  border-radius: 10px;
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+.box-cotacao:hover {
+  transform: scale(1.1);
+}
+
+.box-cotacao-title {
+  color: white;
+  font-weight: 300;
+  letter-spacing: 2px;
+}
+
+.box-empressa-description {
+  color: #97CDF0;
+  font-weight: 200;
+  letter-spacing: 1px;
+}
+
+.cotacao-content-item {
+  padding: 1%;
+  background-color: white;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+  width: 40vw;
+  height: 36vh;
+  margin: 2%;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.cotacao-box-item {
+  display: flex;
+  align-items: center;
+  gap: 1vw;
+}
+
+.cotacao-item-title {
+  width: 25%;
+  border-bottom: 2px solid #16203A;
+  font-weight: 300;
+
+}
+
+.cotacao-container {
+  background-color: #16203A;
+}
+
+.icon {
+  font-size: 16vw;
+  color: rgb(0, 0, 0);
+}
+
+.content-cotacao {
+  display: flex;
+  justify-content: center;
+  gap: 10vw;
+
+}
+
+.cotacao-content-item {
+  color: #16203A;
+}
+
+.sem-linha {
+  text-decoration: none;
+}
+
+@media screen and (max-width: 768px) {
+
+  .text-cotacao-title {
+    color: white;
+    font-weight: 300;
+    border-bottom: 5px solid #97CDF0;
+    width: 50%;
+  }
+
+  .text-cotacao-title {
+    color: white;
+    font-weight: 300;
+    border-bottom: 5px solid #97CDF0;
+    width: 55%;
+  }
+
+  .content-cotacao {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5vh;
+  }
+
+  .cotacao-content-item {
+    width: 80%;
+    height: 25vh;
+    margin-top: 5%;
+  }
+
+
+}
+
+@media screen and (max-width: 425px) {
+
+  .text-cotacao-title {
+    color: white;
+    font-weight: 300;
+    border-bottom: none;
+    width: 80%;
+    text-align: center;
+    margin-top: 75%;
+    margin-left: 5%;
+  }
+}

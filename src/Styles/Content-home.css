@@ -1,0 +1,160 @@
+.container-content {
+  width: 100vw;
+  height: 150vh;
+  background-color: #FAFAFA;
+  display: flex;
+  flex-direction: column;
+  gap: 10vh;
+}
+
+.content {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(230, 230, 230, 0.2);
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  font-size: 36px;
+  letter-spacing: 4px;
+  font-weight: 300;
+  color: #203980;
+  text-align: center;
+  padding-left: 2vw;
+  text-shadow: 1px 1px 10px rgba(255, 255, 255, 0.5);
+}
+
+.logo-home {
+  width: 100px;
+  align-items: center;
+}
+
+.subTitle {
+  font-size: 18px;
+  font-weight: 400;
+  color: #203a80ac;
+  text-align: center;
+  padding-top: 5px;
+}
+
+.text-post {
+  margin: 2%;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  gap: 10vh;
+}
+
+.post {
+  display: flex;
+  flex-direction: row;
+  gap: 5vw;
+  margin: 0 15%;
+}
+
+.post-title {
+  color: #203980;
+  border-bottom: 2px solid #97CDF0;
+}
+
+.post-description {
+  line-height: 36px;
+  color: #263238;
+}
+
+.maos-image {
+  width: 500px;
+  height: 450px;
+}
+
+img {
+  border-radius: 5px;
+}
+
+@media screen and (max-width: 768px) {
+  .container-content {
+    flex-direction: column;
+  }
+
+  .content {
+    width: 768px;
+    padding: 50px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .title {
+    font-size: 24px;
+    font-weight: 400;
+  }
+
+  .post {
+    display: flex;
+    flex-direction: column;
+    gap: 2vw;
+    margin: 0 15%;
+  }
+
+  .text-post {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .post-text {
+    width: 768px;
+  }
+
+  .post-description {
+    line-height: 26px;
+
+
+  }
+
+
+
+}
+
+/* 
+@media screen and (max-width: 768px) {
+  .post-description {
+    width: 15px;
+  }
+
+
+} */
+
+@media screen and (max-width: 425px) {
+  .content {
+    width: 425px;
+    padding: 50px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .post {
+    display: flex;
+    flex-wrap: warp;
+  }
+
+  .text-post {
+    width: 40%
+  }
+
+  .post-title {
+    width: 300px;
+  }
+
+  .post-description {
+    height: 40vh;
+    width: 30%;
+  }
+}

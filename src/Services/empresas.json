@@ -1,0 +1,99 @@
+{
+  "Auto": {
+    "Text": "Seguro obrigatório no que respeita a Responsabilidade Civil perante terceiros, com um limite mínimo de 5.000.000â‚¬ para danos corporais e de 1.000.000â‚¬ para danos materiais.",
+    "Text2": "No entanto não aconselhável contratar coberturas complementares. Em caso de acidente ou de choque:",
+    "Text3": [
+      "- Danos Próprios (Choque/Colisão/Capotamento, Incêndio/Raio/Explosão, Atos Maliciosos e Fenómenos da Natureza);",
+      "- Ocupantes;",
+      " Assistência em Viagem;",
+      "- Veículo de Substituição;",
+      "- Privação de Uso;",
+      "- Proteção Jurídica;",
+      "- Entre outros..."
+    ],
+    "Text4": "O Seguro Automóvel Frota só será aconselhável se for mais benéfico para a sua empresa."
+  },
+  "AcidTrabalho": {
+    "Text": "Seguro obrigatório que garante os acidentes ocorridos no exercício da profissão, quer seja como Trabalhador Independente ou como Trabalhador Conta de Outrem.",
+    "Text2": "Há acidente de trabalho aquele que se verifique durante o horário laboral (inclui o percurso local de trabalho/residência e vice-versa), produzindo lesÃ£o corporal, perturbação funcional ou doença de que resulte redução na capacidade de trabalho ou a morte.",
+    "Text3": "Pagamento de todas as prestações definidas na lei para a recuperação da Pessoa Segura (despesas, tratamentos médicos e/ou indemnizações em caso de morte ou invalidez) além de originar coima."
+  },
+  "Patrimoniais": {
+    "Text": "Seguro que garante os valores patrimoniais do edifício e/ou seu conteúdo. Com diferentes opções, consoante as necessidades da sua empresa, pode também optar pelas seguintes coberturas:",
+    "Text2": [
+      "- Incêndio;",
+      "- Queda de Raio;",
+      "- Explosão;",
+      "- Roubo;",
+      "- Inundações;",
+      "- Responsabilidade Civil;",
+      "- Riscos Elétricos;",
+      "- Proteção Jurídica",
+      "- Entre outros..."
+    ]
+  },
+  "Saude": {
+    "Text": "O Estado tem vindo a reduzir a sua intervenção social, aumentando os custos dos cuidados de saúde.",
+    "Text2": "Surge uma excelente oportunidade de motivar os seus Recursos Humanos através de um seguro de saúde garantindo o reembolso de despesas médicas, consultas, tratamentos, medicamentos, internamentos, entre outros...",
+    "Text3": "A empresa beneficia de uma poupança fiscal e ganha em produtividade, porque pessoas felizes produzem mais e melhor!"
+  },
+  "Vida": {
+    "Text": "A vida é o bem mais precisoso.",
+    "Text2": "Subscrevendo um Seguro de Vida para os Dirigentes ou para os Recursos Humanos irá garantir uma indemnização de um capital previamente definido mediante as suas prioridades, em caso de Morte da Pessoa Segura e/ou Invalidez Absoluta e Definitiva.",
+    "Text3": "A sua empresa também beneficiará fiscalmente."
+  },
+  "AcidPessoais": {
+    "Text": "Proteja Dirigentes e/ou Recursos Humanos dos imprevistos.",
+    "Text2": "O Seguro de Acidentes Pessoais garante um capital em caso de Morte e/ou Invalidez Permanente em consequência de Acidente Profissional e/ou Extra-Profissional."
+  },
+  "RespCivil": {
+    "Text": "EXPLORAÇÃO",
+    "Description": "Seguro que garante a responsabilidade extracontratual que seja imputÃ¡vel ao Tomador decorrente do exercício da actividade indicada na apólice.",
+    "Text2": "PRODUTOS",
+    "Description2": "Seguro que garante a responsabilidade decorrente dos danos causados a terceiros por produtos defeituosos, identificados na apólice, que seja imputável ao tomador, na sua qualidade de produtor.",
+    "Text3": "GERENTES, ADMINISTRADORES, DIRECTORES",
+    "Description3": "Seguro que garante a responsabilidade que seja imputável a administradores, diretores ou gerentes, decorrente do exercício das suas funções, perante as pessoas seguras ou sociedade."
+  },
+  "Financeiros": {
+    "Text": "CAPITALIZAÇÂO",
+    "Description": "Produto financeiro puro, contratado durante determinado período, findo o qual o capital não devolvido a pessoas segura ou beneficirios, acrescido dos juros acumulados.",
+    "Text2": "MISTO",
+    "Description2": "Há um seguro de vida que tem os componentes relativos a um seguro de Vida Risco e de Capitalização."
+  },
+  "PerdasExplo": {
+    "Text": "É um complemento do seguro Multi-Riscos que assiste a empresa no cumprimento das suas responsabilidades decorrente de um sinistro coberto pela apólice, tais como:",
+    "Text2": [
+      "- Paralisação por sinistro;",
+      "- Diminuição da capacidade de laboração;",
+      "- Aumento de gastos suplementares;"
+    ],
+    "Texte3": "Pode também garantir a perda proporcional de lucro líquido."
+  },
+  "Viagens": {
+    "Text": "Há um seguro de Acidentes Pessoais que o protege durante o período da sua viagem, em caso de morte e invalidez por acidente, doença inesperada ocorrida dentro/fora do país.",
+    "Text2": "Garante o pagamento das despesas de tratamento no estrangeiro e de um novo capital para a continuidade das mesmas após a chegada ao país de origem.",
+    "Text3": "Dispõe de coberturas como roubo ou danos na bagagem, medicamentos urgentes, entre outras."
+  },
+  "MercadoriasTrans": {
+    "Text": "Seguro que garante os prejuízos materiais causados ás mercadorias, bagagens ou outros objectos, decorrente do seu transporte quer seja por via marítima, terrestre, aérea e postal.",
+    "Text2": "O tipo de bens a segurar depende das suas características:",
+    "Text3": [
+      "- Peso;",
+      "- Mercadorias perigosas especiais, tais como produtos químicos;",
+      "- Equipamentos de som e/ou imagem;",
+      "- Equipamento eletrônico;",
+      "- Entre outros..."
+    ]
+  },
+  "Engenharia": {
+    "Text": "Seguro que garante uma indemnização dos prejuízos materiais causados nas máquinas, por avarias internas e/ou externas, perdas ou danos súbitos e/ou imprevistos.",
+    "Text2": "Em certos casos pode também cobrir todo o tipo de bens e equipamentos adquiridos em regime de locação financeira (leasing) contra adversidades a que estão sujeitos, tais como:",
+    "Text3": [
+      " Incêndio, raio ou explosão;",
+      "- Tempestades;",
+      "- Inundação;",
+      "- Roubo;",
+      "- Entre outros.."
+    ]
+  }
+}

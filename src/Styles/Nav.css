@@ -1,0 +1,96 @@
+header {
+  width: 100vw;
+  height: 6vh;
+  background-color: #16203A;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.logo-nav {
+  width: 60px;
+  height: 60px;
+}
+
+.nav-items {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 5vw;
+  height: 100%;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #FFFF;
+  border-left: 2px solid transparent;
+  padding-left: 5px;
+  height: 50%;
+  transition: 0.5s;
+}
+
+.nav-link:hover {
+  border-left: 2px solid #97CDF0;
+  transform: scale(1.05);
+}
+
+.logo-content {
+  display: flex;
+  gap: 0.5vw;
+}
+
+.logo {
+  color: white;
+  font-size: 18px;
+  text-align: center;
+  margin-top: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo-p {
+  font-size: 24px;
+  color: #85a0e3;
+}
+
+@media screen and (max-width: 768px) {
+  header {
+    width: 768px;
+    display: flex;
+    height: 10vh;
+    align-items: center;
+    gap: 1vh;
+  }
+
+  .logo-nav {
+    width: 50px;
+    height: 50px;
+  }
+
+  .nav-items {
+    display: flex;
+  }
+
+}
+
+@media screen and (max-width: 425px) {
+  header {
+    width: 425px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 15vh;
+    gap: 1vh;
+  }
+
+  .Nav {
+    display: flex;
+  }
+
+  .logo-nav {
+    width: 50px;
+    height: 50px;
+  }
+
+}

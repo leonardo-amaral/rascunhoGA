@@ -1,0 +1,145 @@
+.content-empresas {
+  width: 100vw;
+  height: 94vh;
+  background-color: #dedede;
+}
+
+.empresas-img {
+  width: 100vw;
+  height: 65vh;
+  background-image: url('../Assets/images/wallpaper.jpg');
+  background-size: cover;
+  background-position: 0vw;
+  background-repeat: no-repeat;
+}
+
+.empresas-text {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 10vh;
+  gap: 2vh;
+}
+
+.text-title-empresas {
+  color: #16203A;
+  font-weight: 300;
+  width: 70%;
+  text-align: center;
+  padding-top: 5vh;
+}
+
+.text-content-empresas {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title-empresas {
+  color: white;
+  padding-top: 10vh;
+  font-size: 42px;
+  letter-spacing: 5px;
+  font-weight: 300
+}
+
+.text-empresas {
+  text-align: center;
+  color: #dddddd;
+  width: 35%;
+}
+
+.boxes-empresas {
+  padding: 6% 10%;
+  width: 100vw;
+  height: 50vh;
+  display: flex;
+  gap: 10vw;
+  background-color: #dedede;
+}
+
+.box-empresa {
+  padding: 1%;
+  width: 20vw;
+  height: 30vh;
+  background-color: #16203A;
+  display: flex;
+  flex-direction: column;
+  gap: 1vh;
+  border-radius: 10px;
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+.box-empresa:hover {
+  transform: scale(1.1);
+}
+
+.box-empresa-title {
+  color: white;
+  font-weight: 300;
+  letter-spacing: 2px;
+}
+
+.box-empresa-description {
+  color: #97CDF0;
+  font-weight: 200;
+  letter-spacing: 1px;
+
+}
+
+@media screen and (max-width: 768px) {
+
+  .content-empresas {
+    height: 210vh;
+    background-color: #dedede;
+  }
+
+  .empresas-img {
+    height: 50vh;
+  }
+
+  .text-empresas {
+    font-size: 16px;
+    width: 80%;
+  }
+
+  .boxes-empresas {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .box-empresa {
+    width: 100%;
+    height: 40vh;
+    padding: 40px;
+  }
+
+  .text-title-empresas {
+    font-size: 30px;
+  }
+
+}
+
+@media screen and (max-width: 425px) {
+
+  .content-empresas {
+    height: 240vh;
+    background-color: #dedede;
+  }
+
+  .text-title-empresas {
+    font-size: 7px;
+  }
+
+  .box-empresa {
+    width: 100%;
+    height: 40vh;
+    padding: 25px;
+  }
+
+}

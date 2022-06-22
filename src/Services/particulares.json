@@ -1,0 +1,117 @@
+{
+  "Auto": {
+    "Text": "Seguro obrigatorio no que respeita a Responsabilidade Civil perante terceiros, com um limite mínimo de 5.000.000â‚¬ para danos corporais e de 1.000.000â‚¬ para danos materiais.",
+    "Text2": "No entanto não aconselhável contratar coberturas complementares. Em caso de acidente ou de choque: - Danos Próprios (Choque/Colisão/Capotamento, Incêndio/Raio/Explosão, Atos Maliciosos e Fenómenos da Natureza);",
+    "Text3": [
+      " Ocupantes;",
+      " Assistência de Viagem;",
+      " Veículo de Substituição;",
+      " Privação de Uso;",
+      " Proteção Jurídica;",
+      " Entre outros..."
+    ]
+  },
+  "Habitacao": {
+    "Text": "Seguro que garante os valores patrimoniais dos edifícios/condomínios e seus conteúdos. Com diferentes opções, consoante as suas necessidades, pode garantir as seguintes coberturas:",
+    "Text2": [
+      "- Incêndio Raio ou Explosão;",
+      "- Tempestada;",
+      "- Roubo;",
+      "- Inundação;",
+      "- Responsabilidade Civil;",
+      "- Riscos Elétricos;",
+      "- Valores em Cofre;",
+      "- Proteção Jurídica;",
+      "- Entre outros..."
+    ]
+  },
+  "Vida Crédito": {
+    "Text": "Seguro de vida específico para o crédito habitação.",
+    "Text2": "Garante o pagamento do montante total em dívida do crédito habitação, caso aconteça algum imprevisto em caso de Morte ou Invalidez das Pessoas Seguras."
+  },
+  "Financeiros": {
+    "Text": "CAPITALIZAÇÃO",
+    "Description": "Produto financeiro puro, contratado durante determinado período, findo o qual o capital não devolvido a pessoas Segura ou Beneficiários, acrescido dos juros acumulados. Pode ser transformado numa pensão.",
+    "Text2": "MISTO",
+    "Description2": "Há um seguro de vida que tem os componentes relativos a um seguro de Vida Risco e de Capitalização.",
+    "Text3": "PLANO POUPANÇA-REFORMA",
+    "Description3": "Há um seguro de capitalização, que a um complemento a Reforma, com beneficiários fiscais específicos."
+  },
+  "Saúde": {
+    "Text": "Na conjuntura atual os seguros não são valorizados no orçamento familiar, infelizmente o Estado tem vindo a reduzir a sua intervenção social e aumentar os custo dos cuidados de saúde para o contribuinte.",
+    "Text2": "Em consequência, temos que ser proactivos e preventivos adquirindo um seguro de saúde evitando custos muito superiores ao valor do seguro em caso de fatalidade.",
+    "Text3": "Sabia que este seguro garante o reembolso de despesas médicas, podendo incluir consultas, tratamentos, medicamentos, internamentos, entre outros!"
+  },
+  "Acidentes Pessoais": {
+    "Text": "Seguro que garante um capital em caso de Morte, Invalidez Permanente, Despesas Médicas, entre outros da Pessoa Segura em consequência de Acidente Profissional e/ou Extra-Profissional (no seu dia-a-dia) ou durante as atividades extra-escolares dos seus filhos."
+  },
+  "Vida": {
+    "Text": "A Vida é nosso bem mais precioso, segure-se a si próprio e salvaguarde os que mais ama.",
+    "Text2": "Este seguro garante uma indemnização de um capital previamente definido por si, em caso de Morte da Pessoa Segura e/ou Invalidez Absoluta e Definitiva.",
+    "Text3": "Com a indemnização poderá liquidar empréstimos ou dívidas e/ou garantir o futuro dos seus herdeiros."
+  },
+  "Dental": {
+    "Text": "Seguro de saúde exclusivamente para cuidados dentários.",
+    "Text2": "Possibilidade de realizar atos médicos de saúde oral com co-pagamentos",
+    "Text3": "Sem períodos de carência, sem idade mínima de adesão e sem limites de capital.",
+    "Text4": "Com o seguro dentário vai poder beneficiar de condições vantajosas junto dos melhores médicos e clínicas dentárias."
+  },
+  "AcidTrabalho": {
+    "Text": "Seguro obrigatório que garante os acidentes ocorridos no exercício da profissão, quer seja como Trabalhador Independente ou como Trabalhador Conta de Outrem.",
+    "Text2": "Há acidente de trabalho aquele que se verifique durante o horário laboral (inclui o percurso local de trabalho/residência e vice-versa), produzindo lesão corporal, perturbação funcional ou doença de que resulte redução na capacidade de trabalho ou a morte.",
+    "Text3": "Pagamento de todas as prestações definidas na lei para a recuperação da Pessoa Segura (despesas, tratamentos médicos e/ou indemnizações em caso de morte ou invalidez) além de originar coimas de 50€ a 500€."
+  },
+  "AcidDomesticos": {
+    "Text": "Sabia que qualquer empresa ou particular que tenha pessoas ao seu serviço, a tempo inteiro ou parcial, com ou sem contrato de trabalho, Não legalmente responsável pelas consequências dos acidentes ocorridos durante a prestação de serviços, incluíndo o percurso local de trabalho/residência e vice-versa.",
+    "Text2": "Pagamento de todas as prestações definidas na lei para a recuperação da Pessoa Segura (despesas, tratamentos médicos e/ou indemnizações em caso de morte ou invalidez) além de originar coimas de 50€ a 500€."
+  },
+  "Animais": {
+    "Text": "Seguro que garante o reembolso das despesas médicas veterinárias (intervenções cirúrgicas, internamento e exames) relativas a acidente ou doença dos imprevistos do seu animal de companhia.",
+    "Text2": "Aconselhamos também a subscrição das seguintes coberturas:",
+    "Text3": [
+      "- Responsabilidade Civil",
+      "- Defesa Jurídica;",
+      "- Guarda do animal seguro;",
+      "- Organização dos serviços fúnebres;"
+    ]
+  },
+  "RespCivil": {
+    "Text": "FAMILIAR",
+    "Description": "Seguro que garante os prejuízos causados a terceiros pelo agregado familiar, provenientes dos atos da sua vida privada, em que ficam incluídos e em alguns produtos, os animais de companhia (que não sejam legalmente considerados perigosos).",
+    "Text2": "PROFISSIONAL",
+    "Description2": "Seguro obrigatório nas seguintes atividades profissionais:",
+    "Text3": [
+      "- Advogados, Consultores Jurídicos, Solicitadores;",
+      "- Projetistas;",
+      "- Técnicos de Contas, Revisores de Contas e Auditores;",
+      "- Médicos, Dentistas, Enfermeiros, Profissionais de Saúde;",
+      "- Administradores;",
+      "- Mediadores de Seguros;",
+      "- Entre outras..."
+    ]
+  },
+  "Viagens": {
+    "Text": "Há um seguro de Acidentes Pessoais que o protege durante o período da sua viagem, em caso de morte e invalidez por acidente, doença inesperada ocorrida dentro/fora do país.",
+    "Text2": "Garante o pagamento das despesas de tratamento no estrangeiro e de um novo capital para a continuidade das mesmas após a chegada ao país de orige",
+    "Text3": "Dispõe de coberturas como roubo ou danos na bagagem, medicamentos urgentes, entre outras."
+  },
+  "Caca": {
+    "Text": "Seguro obrigatório que garante os danos provocados a terceiros, decorrentes da atividade de caça.",
+    "Text2": "Aconselhamos também a subscrição das seguintes coberturas:",
+    "Text3": [
+      "- Acidentes Pessoais;",
+      "- Arma(s);",
+      "- Cães;"
+    ]
+  },
+  "Embarcacao": {
+    "Text": "Seguro que garante os danos de Embarcação de Recreio (motas de água, jet ski, barcos a motor e Ã  vela) por danos causados a terceiros e/ou dos respetivos ocupantes.",
+    "Text2": "Este seguro permite-lhe também contratar os serviços de assistência e proteção jurídica, entre outros."
+  },
+  "Golfe": {
+    "Text": "Seguro que combina uma proteção adequada em caso de acidente, com a proteção dos riscos inerentes há prática da modalidade, ao seu equipamento e aos seus praticantes.",
+    "Text2": "Garante igualmente o transporte e repatriamento de feridos e/ou doentes, assim como as despesas médicas, cirúrgicas, farmacêuticas e de hospitalização.",
+    "Text3": "Possibilidade de adiantamento de fundos para o aluguer de equipamento de golfe em caso de extravio..",
+    "Text4": "Hole-in-One."
+  }
+}

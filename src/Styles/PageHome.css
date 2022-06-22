@@ -1,0 +1,15 @@
+.home {
+  display: flex;
+  flex-direction: column;
+}
+
+@media screen and (max-width: 768px) {
+  .home {
+    flex-direction: column;
+  }
+
+  .footer-home {
+    overflow: hidden;
+    visibility: hidden;
+  }
+}

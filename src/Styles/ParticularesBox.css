@@ -1,0 +1,35 @@
+.ParticularesBoxItem {
+  display: flex;
+  flex-direction: column;
+  width: 6vw;
+  transition: 0.5s;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+}
+
+.ParticularesBoxItem:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.title-particulares {
+  background-color: #16203A;
+  color: white;
+  font-weight: 300;
+  font-size: 12px;
+  width: 100%;
+  text-align: center;
+  padding-right: 5px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+}
+
+a {
+  text-decoration: none;
+}
+
+@media screen and (max-width: 768px) {
+
+  .ParticularesBoxItem {
+    width: 10vw;
+    height: 8vh;
+  }
+}
