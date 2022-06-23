@@ -41,14 +41,14 @@
 
 @media screen and (max-width: 768px) {
   .slide {
-    width: 768px;
+    width: 50vw;
     height: 300px;
   }
 }
 
 @media screen and (max-width: 425px) {
   .slide {
-    width: 100%;
+    width: 100vw;
     height: 300px;
   }
 

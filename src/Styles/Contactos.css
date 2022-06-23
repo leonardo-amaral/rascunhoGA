@@ -1,6 +1,6 @@
 .container-contactos {
   width: 100vw;
-  height: 150vh;
+  height: 160vh;
   display: flex;
   flex-direction: row;
 }
@@ -115,15 +115,16 @@
   .container-contactos {
     display: flex;
     flex-direction: column;
+    width: 728px;
   }
 
   .left-side {
-    width: 100%;
+    width: 100vw;
     height: 120vh;
   }
 
   .right-side {
-    width: 100%;
+    width: 100vw;
   }
 
   .telefone {
