@@ -150,11 +150,12 @@
 
 @media screen and (max-width: 320px) {
   .title-empresas {
-    padding-left: 70px;
+    /* padding-left: 20px; */
+    font-size: 24px;
   }
 
   .text-empresas {
-    font-size: 14px;
+    font-size: 16px;
   }
 
   .box-empresa-description {

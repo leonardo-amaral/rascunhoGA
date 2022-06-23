@@ -57,6 +57,7 @@
 }
 
 .post-title {
+  width: 100%;
   color: #203980;
   border-bottom: 2px solid #97CDF0;
 }
@@ -78,7 +79,7 @@ img {
 @media screen and (max-width: 768px) {
   .container-content {
     flex-direction: column;
-    height: 220vh;
+    height: 240vh;
   }
 
   .content {
@@ -150,6 +151,6 @@ img {
 
 @media screen and (min-width: 320px) {
   .post-title {
-    width: 200px;
+    width: 100%;
   }
 }
