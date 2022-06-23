@@ -79,7 +79,7 @@ img {
 @media screen and (max-width: 768px) {
   .container-content {
     flex-direction: column;
-    height: 255vh;
+    height: 150vh;
   }
 
   .content {
@@ -146,6 +146,10 @@ img {
 
   .post-title {
     width: 300px;
+  }
+
+  .container-content {
+    height: 250vh;
   }
 }
 
