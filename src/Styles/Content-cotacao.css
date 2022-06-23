@@ -168,4 +168,23 @@
     margin-top: 75%;
     margin-left: 5%;
   }
+
+  .cotacao-item-title {
+    width: 60%;
+  }
+
+  .cotacao-box-item {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 5vw;
+  }
+
+  .cotacao-content-item {
+    width: 80%;
+    height: 45vh;
+    margin-top: 5%;
+    padding: 5%;
+    gap: 2vh;
+  }
 }

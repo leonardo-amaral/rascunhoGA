@@ -11,6 +11,7 @@ export default function Home() {
       <Nav />
       <Slider />
       <Content />
+      <Footer />
     </div>
   )
 }

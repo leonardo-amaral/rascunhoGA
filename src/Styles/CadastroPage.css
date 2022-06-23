@@ -86,3 +86,27 @@
 .input-input-obs:focus {
   outline: none;
 }
+
+@media screen and (max-width: 768px) {
+  .CadPageContent {
+    width: 100vw;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .CadPageContent {
+    width: 100vw;
+  }
+
+  .cadTitle {
+    font-size: 26px;
+  }
+
+  h1 {
+    font-size: 24px;
+  }
+
+  p {
+    font-size: 16px;
+  }
+}

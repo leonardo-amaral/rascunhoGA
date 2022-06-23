@@ -8,25 +8,33 @@ export default function Contactos() {
       <Nav />
       <div className="container-contactos">
         <div className="left-side">
-          <div className="left-side-content">
-            <div className="loc-p">
-              <h1 className='loc'>Localizacão</h1>
-              <p>Rua Alexandre Lobo, nº 59 - 1º Esq. 3500-071 Viseu</p>
-            </div>
+          <div className="info">
+            <h1 className="telefone">Endereco:<p className='number'>Rua Alexandre Lobo, nº59 - Viseu</p></h1>
+            <h1 className="telefone">Telefone:<p className='number'>232 419 720</p></h1>
+            <h1 className="telefone">Email:<p className='number'>gestaoactiva@contato.pt</p></h1>
+          </div>
 
-            <div className="loc-tele">
-              <h1 className="tele">Telefone:</h1>
-              <p className='loc-p'>232 419 720</p>
+          <div className="form-contactos">
+            <div className="input-cont">
+              <p className='input-title'>Nome:</p>
+              <input className='input-contactos' type="text" />
             </div>
-            <div className="loc-tele">
-              <h1 className="tele">Fax:</h1>
-              <p className='loc-p'>232 419 729</p>
+            <div className="input-cont">
+              <div className='input100'>
+                <p className='input-title'>Email:</p>
+                <input className='input-contactos' type="text" />
+              </div>
+              <div className='input100'>
+                <p className='input-title'>Telefone:</p>
+                <input className='input-contactos' type="text" />
+              </div>
             </div>
-            <div className="loc-tele">
-              <h1 className="tele">Email:</h1>
-              <p className='loc-p'>geral@gestaoactiva.pt</p>
+            <div className="input-cont">
+              <p className='input-title'>Mensagem:</p>
+              <input className='input-obs-cont' type="text" />
+              <button className="cont">ENVIAR</button>
+              <button className="cont-limpar">LIMPAR</button>
             </div>
-
           </div>
         </div>
         <div className="right-side">

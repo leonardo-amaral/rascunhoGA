@@ -4,9 +4,9 @@
   display: flex;
 }
 
-.ParticularesPageContent {
-  height: 90vh;
-}
+/* .ParticularesPageContent {
+  height: vh;
+} */
 
 .EmpresasPageItem {
   display: flex;
@@ -34,4 +34,22 @@
   color: rgba(255, 255, 255, 0.5);
   font-size: 18px;
 
+}
+
+@media screen and (max-width: 425px) {
+  .ParticularesPage {
+    display: flex;
+    flex-direction: column;
+    width: 425px;
+    height: 500px;
+  }
+
+  .ParticularesContentTitle {
+    width: 60vw;
+  }
+
+
+  .ParticularesContentDescription {
+    font-size: 16px;
+  }
 }

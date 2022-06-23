@@ -44,7 +44,6 @@
 
 .text-post {
   margin: 2%;
-  width: 50%;
   display: flex;
   flex-direction: column;
   gap: 10vh;
@@ -79,6 +78,7 @@ img {
 @media screen and (max-width: 768px) {
   .container-content {
     flex-direction: column;
+    height: 220vh;
   }
 
   .content {
@@ -102,10 +102,10 @@ img {
   }
 
   .text-post {
-    width: 100%;
     display: flex;
     flex-direction: column;
   }
+
 
   .post-text {
     width: 768px;
@@ -113,8 +113,6 @@ img {
 
   .post-description {
     line-height: 26px;
-
-
   }
 
 
@@ -145,16 +143,7 @@ img {
     flex-wrap: warp;
   }
 
-  .text-post {
-    width: 40%
-  }
-
   .post-title {
     width: 300px;
-  }
-
-  .post-description {
-    height: 40vh;
-    width: 30%;
   }
 }

@@ -3,6 +3,12 @@
   flex-direction: column;
 }
 
+.footebol {
+  width: 100vw;
+  height: 40vh;
+  background-color: #16203A;
+}
+
 @media screen and (max-width: 768px) {
   .home {
     flex-direction: column;
