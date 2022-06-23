@@ -9,7 +9,7 @@ export default function Contactos() {
       <div className="container-contactos">
         <div className="left-side">
           <div className="info">
-            <h1 className="telefone">Endereco:<p className='number'>Rua Alexandre Lobo, nº59 - Viseu</p></h1>
+            <h1 className="telefone">Endereco:<p className='number'>Rua Alexandre Lobo, nº59</p></h1>
             <h1 className="telefone">Telefone:<p className='number'>232 419 720</p></h1>
             <h1 className="telefone">Email:<p className='number'>gestaoactiva@contato.pt</p></h1>
           </div>
