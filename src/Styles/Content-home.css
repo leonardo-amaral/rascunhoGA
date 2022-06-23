@@ -79,7 +79,7 @@ img {
 @media screen and (max-width: 768px) {
   .container-content {
     flex-direction: column;
-    height: 240vh;
+    height: 255vh;
   }
 
   .content {

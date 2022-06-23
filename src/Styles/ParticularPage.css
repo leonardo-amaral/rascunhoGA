@@ -69,3 +69,27 @@
     gap: 10vw;
   }
 }
+
+@media screen and (max-width: 425px) {
+  .ParticularesPage {
+    display: flex;
+    flex-direction: column;
+    width: 320px;
+  }
+
+  .contentPageParticular {
+    width: 320px;
+  }
+
+  .ParticularesContentTitle {
+    width: 35vw;
+  }
+
+  .ParticularesPageContent {
+    width: 320px;
+  }
+
+  .ParticularesPageItem {
+    gap: 10vw;
+  }
+}
