@@ -56,7 +56,7 @@ header {
 
 @media screen and (max-width: 768px) {
   header {
-    width: 728px;
+    width: 768px;
     display: flex;
     height: 10vh;
     align-items: center;

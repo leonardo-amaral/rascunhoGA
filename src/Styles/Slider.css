@@ -41,7 +41,7 @@
 
 @media screen and (max-width: 768px) {
   .slide {
-    width: 50vw;
+    width: 100vw;
     height: 300px;
   }
 }
