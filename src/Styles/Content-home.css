@@ -130,7 +130,7 @@ img {
 
 @media screen and (max-width: 425px) {
   .content {
-    width: 100%;
+    width: 100vw;
     padding: 50px;
     height: 100vh;
     display: flex;
@@ -145,5 +145,11 @@ img {
 
   .post-title {
     width: 300px;
+  }
+}
+
+@media screen and (min-width: 320px) {
+  .post-title {
+    width: 200px;
   }
 }

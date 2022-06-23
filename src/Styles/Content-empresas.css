@@ -147,3 +147,17 @@
   }
 
 }
+
+@media screen and (max-width: 320px) {
+  .title-empresas {
+    padding-left: 70px;
+  }
+
+  .text-empresas {
+    font-size: 14px;
+  }
+
+  .box-empresa-description {
+    font-size: 10px;
+  }
+}
