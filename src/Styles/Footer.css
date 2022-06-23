@@ -5,5 +5,7 @@ footer {
 }
 
 @media screen and (min-width: 425px) {
-  footer {}
+  footer {
+    width: 100vw;
+  }
 }
