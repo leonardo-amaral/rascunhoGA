@@ -70,7 +70,7 @@
   }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 320px) {
   .ParticularesPage {
     display: flex;
     flex-direction: column;
@@ -78,7 +78,7 @@
   }
 
   .contentPageParticular {
-    width: 320px;
+    width: 100vw;
   }
 
   .ParticularesContentTitle {
@@ -86,7 +86,7 @@
   }
 
   .ParticularesPageContent {
-    width: 320px;
+    width: 100vw;
   }
 
   .ParticularesPageItem {
