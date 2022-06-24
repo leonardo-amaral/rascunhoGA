@@ -13,10 +13,10 @@ export default function Footer() {
           <h1 className="logo-footer">Gestão<p className="logo-footer-p">Activa</p></h1>
           <div className="text-footer">
             <div className="all-icons">
-              <SiGmail className="icon" />
-              <AiFillFacebook className="icon" />
-              <AiFillLinkedin className="icon" />
-              <FaInstagramSquare className="icon" />
+              <SiGmail className="icon-footer" />
+              <AiFillFacebook className="icon-footer" />
+              <AiFillLinkedin className="icon-footer" />
+              <FaInstagramSquare className="icon-footer" />
             </div>
             <p className='todos-direitos'>Todos os direitos reservados</p>
           </div>

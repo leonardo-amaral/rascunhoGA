@@ -44,6 +44,10 @@
 
 @media screen and (max-width: 768px) {
 
+  .ParticularesPageItem {
+    gap: 15vw;
+  }
+
   .ParticularesPage {
     display: flex;
     flex-direction: column;
